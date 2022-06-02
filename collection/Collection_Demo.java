@@ -3,7 +3,7 @@ package com.capgemini.collection;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Collection_Demo 
+public class Collection_Demo    //collection
 {
 
 	public static void main(String[] args)
