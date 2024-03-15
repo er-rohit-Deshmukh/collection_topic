@@ -32,7 +32,7 @@ public class IteratorDemo {
 					System.out.println(element);
 				}
 				
-			System.out.println("iterator uting iterator");	
+			System.out.println("iterator using iterator");	
 			
 			 Iterator<String> it=list.iterator();
 			while(it:hasNext())
